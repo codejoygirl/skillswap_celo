@@ -3,7 +3,11 @@ Welcome to SkillSwap, a decentralized platform designed to revolutionize the way
 Features:
 
 Decentralized Platform: SkillSwap uses blockchain technology to ensure secure, transparent, and tamper-proof transactions.
+
 Skill Exchange: Users can offer and request services, facilitating a direct exchange of skills.
+
 Mutual Learning: Beyond hiring, SkillSwap encourages users to teach and learn from each other, fostering a community of continuous development.
+
 Smart Contracts: Automated agreements ensure fair exchanges and timely payments without the need for intermediaries.
+
 Reputation System: User ratings and reviews help maintain trust and quality within the community.
